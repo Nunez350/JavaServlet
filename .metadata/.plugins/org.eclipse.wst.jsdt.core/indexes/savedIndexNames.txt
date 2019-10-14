@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/roynunez/Documents/CollaberaJump/ServletTutorial/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1547196019.index
+1310890784.index
+4020534776.index
+413932140.index
+342775699.index
+258400238.index
+537220173.index
